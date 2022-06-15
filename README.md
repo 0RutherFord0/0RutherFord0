@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me just DM on twitter https://twitter.com/Adityatawade_17
+- 🌍 Let's get connected https://www.linkedin.com/in/aditya-tawade/
 
 <!---
 0RutherFord0/0RutherFord0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
